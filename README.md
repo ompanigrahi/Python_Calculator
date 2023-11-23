@@ -1,6 +1,6 @@
 # Python_Calculator
-##**Basic Calculators with Python**
-###Dynamic Calculators for dynamic problems.
+## **Basic Calculators with Python**
+### Dynamic Calculators for dynamic problems.
 <ol>
   <li>
     Different Types of Calculators
