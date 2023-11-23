@@ -2,9 +2,7 @@
 ## **Basic Calculators with Python**
 ### Dynamic Calculators for dynamic problems.
 <ol>
-  <li>
-    Different Types of Calculators
-  </li>
+  
   <li>
     Loan Emi Calculator
   </li>
