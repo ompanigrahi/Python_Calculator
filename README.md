@@ -1,5 +1,5 @@
 # Python_Calculator
-## **Basic Calculators with Python**
+## **Basic Calculators made with Python**
 ### Dynamic Calculators for dynamic problems.
 <ol>
   
